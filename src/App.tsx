@@ -1,3 +1,5 @@
+import clickCount from './components/clickCount';
+import SomeExampleComponent from './components/example/someExampleComponent';
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
